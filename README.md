@@ -1,6 +1,4 @@
 ![profile](1693151264548.jpeg)
-<hr>
-
 ![capa](capa.gif)
 
 <hr>
