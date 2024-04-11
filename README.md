@@ -9,26 +9,12 @@
 </a>
 </p>
 
-<style>
-    /* Estilos para a caixa de texto */
-    .caixa-texto {
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Sombreamento */
-        display: inline-block; /* Para ajustar ao conteúdo */
-    }
-</style>
-
-
-<div class='caixa-texto'>
 <p>Profissional especializado em Infraestrutura de TI, apaixonado por desafios tecnológicos e mergulhado no mundo dinâmico da Tecnologia da Informação. Minha experiência abrange um conhecimento aprofundado em diversas tecnologias essenciais, tais como Docker, Kubernetes, Nginx, Python, Ruby, Puppet, Ansible, AWS, entre outras, além de ser proficiente em ferramentas de pentest.
 
 Atualmente, estou focado em observabilidade, gerenciamento e automação da infraestrutura e suas aplicações. Utilizo ferramentas de ponta, como Prometheus, Grafana e Terraform, para criar ambientes escaláveis e de alta disponibilidade. Além disso, implemento soluções de segurança robustas, como fail2ban e snort, e conduzo testes de penetração direcionados e controlados para garantir a integridade e proteção dos sistemas.
 
 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir de forma significativa para projetos inovadores e em constante evolução.
 </p>
-</div>
 
 <hr>
 <p align="center">
