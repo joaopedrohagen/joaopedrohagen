@@ -2,10 +2,10 @@
 
 <p>
 <a href="https://github.com/joaopedrohagen/github-readme-stats">
-<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrohagen&theme=dracula&hide=html,shell">
+<img width="25%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrohagen&theme=dracula&hide=html,shell">
 </a>
 <a href="https://github.com/joaopedrohagen/github-readme-stats">
-<img width="64%" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopedrohagen&show_icons=true&theme=dracula&line_height=33">
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopedrohagen&show_icons=true&theme=dracula&line_height=33">
 </a>
 </p>
 
