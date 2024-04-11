@@ -1,15 +1,7 @@
 ![profile](header.png)
-
+<hr>
 <p>
-<a href="https://github.com/joaopedrohagen/github-readme-stats">
-<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrohagen&theme=dracula&hide=html,shell">
-</a>
-<a href="https://github.com/joaopedrohagen/github-readme-stats">
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopedrohagen&show_icons=true&theme=dracula&line_height=33">
-</a>
-</p>
-
-<p>Profissional especializado em Infraestrutura de TI, apaixonado por desafios tecnológicos e mergulhado no mundo dinâmico da Tecnologia da Informação. Minha experiência abrange um conhecimento aprofundado em diversas tecnologias essenciais, tais como Docker, Kubernetes, Nginx, Python, Ruby, Puppet, Ansible, AWS, entre outras, além de ser proficiente em ferramentas de pentest.
+Profissional especializado em Infraestrutura de TI, apaixonado por desafios tecnológicos e mergulhado no mundo dinâmico da Tecnologia da Informação. Minha experiência abrange um conhecimento aprofundado em diversas tecnologias essenciais, tais como Docker, Kubernetes, Nginx, Python, Ruby, Puppet, Ansible, AWS, entre outras, além de ser proficiente em ferramentas de pentest.
 
 Atualmente, estou focado em observabilidade, gerenciamento e automação da infraestrutura e suas aplicações. Utilizo ferramentas de ponta, como Prometheus, Grafana e Terraform, para criar ambientes escaláveis e de alta disponibilidade. Além disso, implemento soluções de segurança robustas, como fail2ban e snort, e conduzo testes de penetração direcionados e controlados para garantir a integridade e proteção dos sistemas.
 
