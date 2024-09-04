@@ -2,14 +2,14 @@
 <hr>
 
 <p align='left'>
-Profissional especializado em Infraestrutura de TI, apaixonado por desafios tecnológicos e mergulhado no mundo dinâmico da Tecnologia da Informação. Minha experiência abrange um conhecimento aprofundado em diversas tecnologias essenciais, tais como Docker, Kubernetes, Nginx, Python, Ruby, Puppet, Ansible, AWS, entre outras, além de ser proficiente em ferramentas de pentest.
+Profissional especializado em Infraestrutura de TI (Cloud e On-premise), apaixonado por desafios tecnológicos e imerso no mundo da Tecnologia. Minha experiência abrange um conhecimento aprofundado em diversas tecnologias essenciais, como Docker, Kubernetes, Nginx, Python, Ruby, Terraform, Ansible, AWS, Elastic Stack, entre outras, além de ser conhecedor em ferramentas de pentest.
 
 <p align='left'>
-Atualmente, estou focado em observabilidade, gerenciamento e automação da infraestrutura e suas aplicações. Utilizo ferramentas de ponta, como Prometheus, Grafana e Terraform, para criar ambientes escaláveis e de alta disponibilidade. Além disso, implemento soluções de segurança robustas, como fail2ban e snort, e conduzo testes de penetração direcionados e controlados para garantir a integridade e proteção dos sistemas.
+Atualmente, estou focado em observabilidade, gerenciamento e automação de infraestrutura e suas aplicações, alinhado às culturas DevOps e GitOps. Utilizo ferramentas modernas como ArgoCD e GitHub Actions para integrar e automatizar fluxos de trabalho, além de Jenkins para orquestração de pipelines. Emprego Prometheus e Grafana para criar ambientes escaláveis e de alta disponibilidade, garantindo visibilidade e monitoramento contínuos.
 </p>
 
 <p align='left'>
-Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir de forma significativa para projetos inovadores e em constante evolução.
+Também implemento soluções de segurança robustas, como Fail2ban e Snort, e realizo testes de penetração direcionados e controlados para assegurar a integridade e proteção dos sistemas. Sempre em busca de novos desafios, procuro aprimorar minhas habilidades e contribuir de maneira significativa para projetos inovadores e em constante evolução.
 </p>
 
 <hr>
