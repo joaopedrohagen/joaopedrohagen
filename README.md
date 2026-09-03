@@ -1,5 +1,4 @@
-![profile](joaopedro-profile-banner.svg)
-
+<p align="center"> <img src="joaopedro-profile-banner.svg" alt="Profile Banner"> </p>
 <hr>
 
 <h3 align="center">👨‍💻 About Me</h3>
@@ -34,4 +33,4 @@ I actively explore the intersection of <strong>AI, Automation and Infrastructure
 
 <p align="center"> <a href="https://github.com/joaopedrohagen"> <i class="fa-brands fa-square-github" style="color: #ffffff; font-size: 32px;"></i> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaopedrohagen/"> <i class="fa-brands fa-linkedin" style="color: #ffffff; font-size: 32px;"></i> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/joaopedrohagen/"> <i class="fa-brands fa-square-instagram" style="color: #ffffff; font-size: 32px;"></i> </a> </p>
 
-![footer](header_1.png)
+<p align="center"> <img src="header_1.png" alt="Footer"> </p>
