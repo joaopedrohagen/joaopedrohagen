@@ -1,18 +1,37 @@
-![profile](capagit.png)
-<hr>
-
-<p align='left'>
-Apaixonado por tecnologia e desafios, sou especialista em infraestrutura de TI (Cloud e On-premise), com foco em automação, observabilidade e alta disponibilidade. Trabalho com Kubernetes, Docker, AWS, Terraform e outras ferramentas essenciais. Utilizo ArgoCD, GitHub Actions e Jenkins para automação de pipelines, além de Prometheus e Grafana para garantir monitoramento e escalabilidade. Fora do mundo tech, adoro cantar, tocar violão e me aventurar no mundo dos investimentos. Sempre pronto para encarar novos desafios e contribuir com projetos que fazem a diferença!
+![profile](joaopedro-profile-banner.svg)
 
 <hr>
-<p align="center">
-  <i>Dê uma olhada nas minhas redes! Vlw!</i>
+
+<h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-<a href="https://github.com/joaopedrohagen"><img src="https://img.icons8.com/material-outlined/27/FFFFFF/ball-point-pen.png"/></a>
-<a href="https://www.linkedin.com/in/joaopedrohagen/"><img src="https://img.icons8.com/material-outlined/30/FFFFFF/linkedin.png"/></a>
-<a href="https://hagen.dev.br"><img src="https://img.icons8.com/material-outlined/27/FFFFFF/geography.png"/></a>
+
+<strong>DevOps / Infrastructure Engineer</strong> ☁️
+
+Cloud • Platform Engineering • Kubernetes • Automation • Infrastructure as Code • GitOps • Observability
+
+Currently working with <strong>Enterprise Architecture</strong>, helping design, automate and evolve scalable, highly available and resilient technology platforms across <strong>AWS and Azure</strong>.
+
+My work focuses on infrastructure automation, cloud platforms, Kubernetes ecosystems, CI/CD, GitOps and observability.
+
+<br>
+
+<strong>Tech Stack</strong>
+
+Kubernetes • AKS • Terraform • Ansible • AAP • Red Hat • Docker • MongoDB Atlas • ArgoCD • GitHub Actions • Jenkins • Prometheus • Grafana
+
+I actively explore the intersection of <strong>AI, Automation and Infrastructure</strong>, focusing on improving engineering productivity, platform reliability and operational efficiency.
+
+<br>
+
+🎸 Music  •  🎤 Singing  •  💰 Investments
+
 </p>
 
+<hr>
+
+<h3 align="center">🌐 Let's Connect</h3>
+
+<p align="center"> <a href="https://github.com/joaopedrohagen"> <i class="fa-brands fa-square-github" style="color: #ffffff; font-size: 32px;"></i> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaopedrohagen/"> <i class="fa-brands fa-linkedin" style="color: #ffffff; font-size: 32px;"></i> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/joaopedrohagen/"> <i class="fa-brands fa-square-instagram" style="color: #ffffff; font-size: 32px;"></i> </a> </p>
 
 ![footer](header_1.png)
