@@ -31,6 +31,6 @@ I actively explore the intersection of <strong>AI, Automation and Infrastructure
 
 <h3 align="center">🌐 Let's Connect</h3>
 
-<p align="center"> <a href="https://github.com/joaopedrohagen"> <i class="fa-brands fa-square-github" style="color: #ffffff; font-size: 32px;"></i> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaopedrohagen/"> <i class="fa-brands fa-linkedin" style="color: #ffffff; font-size: 32px;"></i> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/joaopedrohagen/"> <i class="fa-brands fa-square-instagram" style="color: #ffffff; font-size: 32px;"></i> </a> </p>
+<p align="center"> <a href="https://github.com/joaopedrohagen"> <img src="./assets/icons/github.svg" width="32" height="32" alt="GitHub"> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaopedrohagen/"> <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/joaopedrohagen/"> <img src="./assets/icons/instagram.svg" width="32" height="32" alt="Instagram"> </a> </p>
 
 <p align="center"> <img src="header_1.png" alt="Footer"> </p>
