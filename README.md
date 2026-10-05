@@ -1,5 +1,5 @@
 <p>
-  <img src="./joaopedro-profile-banner.svg" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
+  <img src="./joaopedro-profile-banner.svg?v=20261005" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
 </p>
 
 I work on cloud infrastructure and platform automation, with a focus on making systems reliable, repeatable, and easier to operate.
@@ -29,4 +29,3 @@ As part of this work, I’m developing reusable Terraform components and documen
 [LinkedIn](https://www.linkedin.com/in/joaopedrohagen/) · [Hagen Cloud](https://github.com/hagen-cloud)
 
 <sub>Outside engineering, I enjoy music and singing.</sub>
-
