@@ -12,10 +12,10 @@ I’m building [Hagen Cloud](https://github.com/hagen-cloud), a Cloud and DevOps
 
 As part of this work, I’m developing reusable Terraform components and documenting their interfaces, design decisions, and validation boundaries.
 
-## Selected projects
+## Hagen Cloud projects
 
 - **[Terraform Modules](https://github.com/hagen-cloud/terraform-modules)** — Reusable infrastructure components developed for Hagen Cloud.
-- **[Kubernetes Bot](https://github.com/joaopedrohagen/kubernetes-bot)** — A Python bot that integrates Telegram with the Kubernetes API to inspect and restart pods.
+- **[Terraform Root Modules](https://github.com/hagen-cloud/terraform-root-modules)** — A repository for composing reusable Terraform modules into cloud environments and infrastructure stacks, currently under development.
 
 ## Technologies
 
