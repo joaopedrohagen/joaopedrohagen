@@ -1,36 +1,32 @@
-<p align="center"> <img src="joaopedro-profile-banner.svg" alt="Profile Banner"> </p>
-<hr>
-
-<h3 align="center">👨‍💻 About Me</h3>
-
-<p align="center">
-
-<strong>DevOps / Infrastructure Engineer</strong> ☁️
-
-Cloud • Platform Engineering • Kubernetes • Automation • Infrastructure as Code • GitOps • Observability
-
-Currently working with <strong>Enterprise Architecture</strong>, helping design, automate and evolve scalable, highly available and resilient technology platforms across <strong>AWS and Azure</strong>.
-
-My work focuses on infrastructure automation, cloud platforms, Kubernetes ecosystems, CI/CD, GitOps and observability.
-
-<br>
-
-<strong>Tech Stack</strong>
-
-Kubernetes • AKS • Terraform • Ansible • AAP • Red Hat • Docker • MongoDB Atlas • ArgoCD • GitHub Actions • Jenkins • Prometheus • Grafana
-
-I actively explore the intersection of <strong>AI, Automation and Infrastructure</strong>, focusing on improving engineering productivity, platform reliability and operational efficiency.
-
-<br>
-
-🎸 Music  •  🎤 Singing  •  💰 Investments
-
+<p>
+  <img src="./joaopedro-profile-banner.svg" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
 </p>
 
-<hr>
+I work on cloud infrastructure and platform automation, with a focus on making systems reliable, repeatable, and easier to operate.
 
-<h3 align="center">🌐 Let's Connect</h3>
+My work spans AWS and Azure, Kubernetes, Infrastructure as Code, CI/CD, GitOps, and observability.
 
-<p align="center"> <a href="https://github.com/joaopedrohagen"> <img src="./assets/icons/github.svg" width="32" height="32" alt="GitHub"> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/joaopedrohagen/"> <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/joaopedrohagen/"> <img src="./assets/icons/instagram.svg" width="32" height="32" alt="Instagram"> </a> </p>
+## Building Hagen Cloud
 
-<p align="center"> <img src="header_1.png" alt="Footer"> </p>
+I’m building [Hagen Cloud](https://github.com/hagen-cloud), a Cloud and DevOps consultancy focused on infrastructure automation and platform engineering.
+
+As part of this work, I’m developing reusable Terraform components and documenting their interfaces, design decisions, and validation boundaries.
+
+## Selected projects
+
+- **[Terraform Modules](https://github.com/hagen-cloud/terraform-modules)** — Reusable infrastructure components developed for Hagen Cloud.
+- **[Kubernetes Bot](https://github.com/joaopedrohagen/kubernetes-bot)** — A Python bot that integrates Telegram with the Kubernetes API to inspect and restart pods.
+
+## Technologies
+
+- **Cloud & platforms:** AWS, Azure, Kubernetes, AKS, Docker, Red Hat
+- **Infrastructure & automation:** Terraform, Ansible, Ansible Automation Platform
+- **Delivery & observability:** GitHub Actions, Jenkins, Argo CD, Prometheus, Grafana
+- **Data platforms:** MongoDB Atlas
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/joaopedrohagen/) · [Hagen Cloud](https://github.com/hagen-cloud)
+
+<sub>Outside engineering, I enjoy music and singing.</sub>
+
