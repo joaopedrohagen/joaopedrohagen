@@ -1,5 +1,5 @@
 <p>
-  <img src="./joaopedro-profile-banner.svg?v=20261005" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/joaopedrohagen/joaopedrohagen/29c451f725f485e68224bfd4fed1d01dd104bf79/joaopedro-profile-banner.svg" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
 </p>
 
 I work on cloud infrastructure and platform automation, with a focus on making systems reliable, repeatable, and easier to operate.
