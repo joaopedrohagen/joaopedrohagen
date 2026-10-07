@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/joaopedrohagen/joaopedrohagen/cb0f98f873be0694658cdc50325ea824a9a2e884/joaopedro-profile-banner.svg" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/joaopedrohagen/joaopedrohagen/950f13552438fd7eaf12515efd1b83645c4b9eda/joaopedro-profile-banner.png" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
 </p>
 
 **Hi, I’m João Pedro — a Cloud & Platform Engineer based in Brazil.**
