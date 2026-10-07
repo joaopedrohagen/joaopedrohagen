@@ -1,26 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">João Pedro Hagen — Cloud &amp; Platform Engineer</title>
-  <desc id="desc">Infrastructure as Code, Kubernetes and Automation. Building Hagen Cloud.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">João Pedro Hagen — Cloud and Platform Engineer</title>
+  <desc id="desc">Cloud infrastructure. Platform engineering. Automation.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1726"/>
-      <stop offset="1" stop-color="#101d2e"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10162c"/><stop offset="1" stop-color="#172947"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6ee7e1"/><stop offset="1" stop-color="#9e94ff"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#6862d8" stop-opacity=".3"/><stop offset="1" stop-color="#6862d8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9caee3" stroke-opacity=".06"/></pattern>
   </defs>
-  <rect width="1200" height="280" rx="16" fill="url(#background)"/>
-  <rect x="0" y="38" width="5" height="204" rx="2" fill="#54d6c7"/>
-  <g fill="none" stroke="#54d6c7" stroke-width="1.5" opacity="0.18">
-    <path d="M950 0v78h94v80h156M1200 54h-106v90h-102v136M903 280v-76h62v-87h-64V0"/>
-    <circle cx="1044" cy="78" r="5" fill="#101d2e"/>
-    <circle cx="992" cy="144" r="5" fill="#101d2e"/>
-    <circle cx="965" cy="204" r="5" fill="#101d2e"/>
-  </g>
+  <rect width="1200" height="350" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1030" cy="155" rx="290" ry="240" fill="url(#glow)"/>
+  <rect x="56" y="54" width="48" height="4" rx="2" fill="url(#accent)"/>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="58" y="62" font-size="15" letter-spacing="3" fill="#54d6c7">CLOUD · PLATFORMS · AUTOMATION</text>
-    <text x="56" y="125" font-size="48" font-weight="700" fill="#f0f6fc">João Pedro Hagen</text>
-    <text x="58" y="170" font-size="25" fill="#c5d3e2">Cloud &amp; Platform Engineer</text>
-    <text x="58" y="211" font-size="19" fill="#97aabd">Infrastructure as Code · Kubernetes · Automation</text>
-    <text x="58" y="249" font-size="16" fill="#54d6c7">Building Hagen Cloud</text>
+    <text x="56" y="132" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#f4f7ff">João Pedro Hagen</text>
+    <text x="58" y="185" font-size="31" fill="#c3d2f0">Cloud &amp; Platform Engineer</text>
+    <text x="58" y="244" font-size="21" fill="#8fe6e4">Infrastructure as Code · Kubernetes · Automation</text>
+    <text x="58" y="301" font-size="17" letter-spacing="2" fill="#91a3c5">ENGINEERING RELIABLE PLATFORMS</text>
   </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1020" cy="166" r="110" stroke="#a198ff" stroke-opacity=".16" stroke-width="1.5"/>
+    <circle cx="1020" cy="166" r="83" stroke="#8fe6e4" stroke-opacity=".12" stroke-dasharray="4 10"/>
+    <path d="M974 183h91c18 0 28-12 28-27s-12-27-28-27h-5c-6-24-22-37-44-37-25 0-43 18-45 40-18 0-31 10-31 26s13 25 34 25Z" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M1020 183v39m-44-39v24h-29m117-24v24h29" stroke="#8fe6e4" stroke-opacity=".65" stroke-width="2"/>
+    <rect x="1009" y="222" width="22" height="22" rx="5" stroke="#a198ff" stroke-width="2"/>
+    <rect x="925" y="197" width="22" height="22" rx="5" stroke="#8fe6e4" stroke-width="2"/>
+    <rect x="1093" y="197" width="22" height="22" rx="5" stroke="#a198ff" stroke-width="2"/>
+  </g>
+  <rect x="56" y="332" width="1088" height="2" rx="1" fill="url(#accent)" opacity=".6"/>
 </svg>
-
