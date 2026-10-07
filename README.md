@@ -1,31 +1,42 @@
 <p>
-  <img src="https://raw.githubusercontent.com/joaopedrohagen/joaopedrohagen/29c451f725f485e68224bfd4fed1d01dd104bf79/joaopedro-profile-banner.svg" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/joaopedrohagen/joaopedrohagen/cb0f98f873be0694658cdc50325ea824a9a2e884/joaopedro-profile-banner.svg" alt="João Pedro Hagen — Cloud & Platform Engineer" width="100%">
 </p>
 
-I work on cloud infrastructure and platform automation, with a focus on making systems reliable, repeatable, and easier to operate.
+**Hi, I’m João Pedro — a Cloud & Platform Engineer based in Brazil.**
 
-My work spans AWS and Azure, Kubernetes, Infrastructure as Code, CI/CD, GitOps, and observability.
+I work with enterprise architecture, cloud infrastructure, and automation across **AWS and Azure**. I enjoy connecting architecture with hands-on engineering: turning infrastructure decisions into code, simplifying operations, and building platforms that are easier to maintain.
 
-## Building Hagen Cloud
+My focus is on **reliability, repeatability, and operational clarity**, from infrastructure provisioning to application delivery and observability.
 
-I’m building [Hagen Cloud](https://github.com/hagen-cloud), a Cloud and DevOps consultancy focused on infrastructure automation and platform engineering.
+<br>
 
-As part of this work, I’m developing reusable Terraform components and documenting their interfaces, design decisions, and validation boundaries.
+**☁️ What I work on**
 
-## Hagen Cloud projects
+- **Cloud & platform engineering** — cloud infrastructure, Kubernetes ecosystems, and resilient platform design.
+- **Infrastructure automation** — Infrastructure as Code, configuration management, and repeatable workflows.
+- **Delivery & operations** — CI/CD, GitOps, monitoring, and visibility into how systems behave.
 
-- **[Terraform Modules](https://github.com/hagen-cloud/terraform-modules)** — Reusable infrastructure components developed for Hagen Cloud.
-- **[Terraform Root Modules](https://github.com/hagen-cloud/terraform-root-modules)** — A repository for composing reusable Terraform modules into cloud environments and infrastructure stacks, currently under development.
+<br>
 
-## Technologies
+**⚙️ My toolkit**
 
-- **Cloud & platforms:** AWS, Azure, Kubernetes, AKS, Docker, Red Hat
-- **Infrastructure & automation:** Terraform, Ansible, Ansible Automation Platform
-- **Delivery & observability:** GitHub Actions, Jenkins, Argo CD, Prometheus, Grafana
-- **Data platforms:** MongoDB Atlas
+| Area | Technologies |
+| :--- | :--- |
+| Cloud & platforms | AWS · Azure · Kubernetes · AKS · Docker · Red Hat |
+| Infrastructure & automation | Terraform · Ansible · Ansible Automation Platform |
+| Delivery & observability | GitHub Actions · Jenkins · Argo CD · Prometheus · Grafana |
+| Data platforms | MongoDB Atlas |
 
-## Connect
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/joaopedrohagen/) · [Hagen Cloud](https://github.com/hagen-cloud)
+**🔎 What I’m exploring**
 
-<sub>Outside engineering, I enjoy music and singing.</sub>
+I’m interested in how **AI and automation** can improve engineering productivity and day-to-day infrastructure work. I’m also building [Hagen Cloud](https://github.com/hagen-cloud), bringing my focus on cloud infrastructure and platform engineering into a consultancy of my own.
+
+<br>
+
+**Beyond engineering** — music, singing, and investments.
+
+---
+
+[**Let’s connect on LinkedIn ↗**](https://www.linkedin.com/in/joaopedrohagen/) · [Hagen Cloud](https://github.com/hagen-cloud)
